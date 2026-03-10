@@ -1,0 +1,30 @@
+a{
+    color: rgb(126, 20, 197);
+    text-decoration: none;
+    
+}
+a:hover{
+text-transform: uppercase;
+text-decoration: underline;
+}
+p{
+color: rgb(189, 238, 238);
+    text-decoration-color: blueviolet;
+}
+body{
+    background-color: cadetblue;
+    
+}
+img{
+    margin: 15px 0;
+    border-radius: 8px;
+    transition: transform 0.2s;
+    align-items: center;
+    
+} 
+
+img:hover{
+transform: scale(1.03);
+ }
+
+
