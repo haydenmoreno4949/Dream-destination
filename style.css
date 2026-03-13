@@ -7,3 +7,35 @@ a:hover{
 text-transform: uppercase;
 text-decoration: underline;
 }
+p{
+color: blueviolet rgb(101, 16, 122);
+    text-decoration-color: blueviolet;
+}
+body{
+    background-color: rgb(213, 214, 214);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-decoration: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+}
+img{
+    margin: 15px 0;
+    border-radius: 8px;
+    transition: transform 0.2s;
+    align-items: center;
+    
+} 
+
+img:hover{
+transform: scale(1.03);
+ }
+
+ a{
+color: aliceblue;
+background-color: blueviolet;
+padding: 10px 20px;
+border-radius: 10px;
+ }
